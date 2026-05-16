@@ -22,7 +22,7 @@
     "clean": "gulp clean",
     "start": "gulp watch",
     "test": "gulp test",
-    "build": "gulp publish"
+    "build": "npx gulp publish"
   },
   "repository": {
     "type": "git",
